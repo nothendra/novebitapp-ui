@@ -1,6 +1,6 @@
-# hendras_app
+# novebitapp
 
-A new Flutter project.
+A random flutter project for an assignment
 
 ## Getting Started
 
