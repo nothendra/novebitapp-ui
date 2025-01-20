@@ -73,9 +73,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
                 TransparentImageCard(
                   width: 150,
                   imageProvider: AssetImage('lib/assets/img/racing.png'),
@@ -86,9 +88,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
                 TransparentImageCard(
                   width: 150,
                   imageProvider: AssetImage('lib/assets/img/openworldgames.png'),
@@ -99,9 +103,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
                 TransparentImageCard(
                   width: 150,
                   imageProvider: AssetImage('lib/assets/img/adventure.png'),
@@ -112,9 +118,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
                 TransparentImageCard(
                   width: 150,
                   imageProvider: AssetImage('lib/assets/img/roguelike.png'),
@@ -125,9 +133,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
                 TransparentImageCard(
                   width: 150,
                   imageProvider: AssetImage('lib/assets/img/simulation.png'),
@@ -138,9 +148,11 @@ class _HomepageState extends State<Homepage> {
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),
-                  ),  
+                  ),
                 ),
-                SizedBox(width: 5,),
+                SizedBox(
+                  width: 5,
+                ),
               ],
             ),
           ),
